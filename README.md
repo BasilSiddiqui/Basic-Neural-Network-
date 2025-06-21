@@ -2,8 +2,6 @@
 
 A toy experiment using PyTorch to build and train a minimal neural network to model dose-effectiveness behavior. The goal is to visualize how a tiny neural network can learn to predict the most effective dose out of a range — using only one learnable parameter!
 
-![Trained Output](images/trained_nn.png)
-
 ---
 
 ### 📌 About the Project
@@ -32,7 +30,7 @@ This project demonstrates how neural networks can learn a non-linear response cu
 
 > Trained model output curve (Dose vs Effectiveness):
 
-![Dose vs Effectiveness Graph](./d2bcefdc-1b58-44b7-acd5-e838431d83c3.png)
+![Trained Output](images/trained_nn.png)
 
 ---
 
